@@ -1,0 +1,11 @@
+{
+  "name": "DustBot",
+  "version": "1.0.0",
+  "description": "Manages topics for client specific categories",
+  "main": "bot.js",
+  "author": "DustVoice",
+  "dependencies": {
+    "discord.io": "https://github.com/woor/discord.io/tarball/gateway_v6",
+    "winston": "^3.2.1"
+  }
+}
